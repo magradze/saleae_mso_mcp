@@ -40,8 +40,8 @@ Requirements: Python ≥ 3.11, a Logic MSO, and Logic 2 ≥ 2.4.20 installed onc
 (it provides the USB drivers / udev rules).
 
 ```bash
-git clone https://github.com/giorgimagradze/saleae-mso-mcp.git
-cd saleae-mso-mcp
+git clone https://github.com/magradze/saleae_mso_mcp.git
+cd saleae_mso_mcp
 uv sync --extra hardware
 ```
 
